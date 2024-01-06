@@ -11,7 +11,7 @@ Here are some of my recent projects:
 - **[CRM Experiment Implementation Using Dash](https://github.com/orineo1/CRM-Experiment-Implementation):**
   - A web application designed to carry out experiments on medication dosage using the CRM model.
 
-- **[Are Sequel Movies Really Worse? Hypothesis Testing with IMDb Ratings](https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23):**
+- **[GrandmizersShtick - Hackaton-Huji-2023 - Generetive AI using API](https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23):**
   - A Python application that generates conversations using **generative AI** and converts them into audio files.
 
 - **[Are Sequel Movies Really Worse? Hypothesis Testing with IMDb Ratings](https://github.com/orineo1/Are-Sequel-Movies-Really-Worse-):**
