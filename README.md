@@ -16,7 +16,4 @@ Here are some of my recent projects:
 
 - **[Are Sequel Movies Really Worse? Hypothesis Testing with IMDb Ratings](https://github.com/orineo1/Are-Sequel-Movies-Really-Worse-):**
   - A summer vacation project exploring whether sequel movies are greater, the same, or worse than their predecessors using IMDb ratings and statistical assumptions.
-    
-- **[WiFiGuard: Monitoring and Restart Script Router:](https://github.com/orineo1/WiFiGuard):**
-  - My TP-LINK Router encounters issues, occasionally disconnecting from the internet. This script monitors the status of the WiFi, and if any issues are detected, it initiates a restart.
 
