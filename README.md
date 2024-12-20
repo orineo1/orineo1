@@ -18,4 +18,4 @@ Here are some of my recent projects:
   - Explores diffusion models by extending the conventional framework with alternative noise distributions, including GMM and Gamma, as well as incorporating scheduling strategies such as sigmoid, cosine, and a new dynamic approach we thought of.
     
 - **[Are Sequel Movies Really Worse? Hypothesis Testing with IMDb Ratings](https://github.com/orineo1/Are-Sequel-Movies-Really-Worse-):**
-  -A summer vacation project from my first year of undergraduate studies, exploring whether sequel movies tend to outperform, match, or fall short of their predecessors based on IMDb ratings. This project leverages statistical hypothesis testing and introduces key statistical concepts through a fun and relatable topic. While it is somewhat childish, I like that project:)
+  - A summer vacation project from my first year of undergraduate studies, exploring whether sequel movies tend to outperform, match, or fall short of their predecessors based on IMDb ratings. This project leverages statistical hypothesis testing and introduces key statistical concepts through a fun and relatable topic. While it is somewhat childish, I like that project:)
